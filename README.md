@@ -75,7 +75,7 @@ for tweet in tweets:
         <li><strong>Twitter Developer Account:</strong> Make sure you follow Twitter's guidelines and rules to avoid violating the platform's terms of service.</li>
     </ul>
     <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
+    <p>This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
     <h2>Credits</h2>
     <p>This script was created by <strong>Riotcoke123</strong>. Special thanks to the <a href="https://www.tweepy.org/" target="_blank">Tweepy</a> library for making Twitter API interaction easier.</p>
 </body>
